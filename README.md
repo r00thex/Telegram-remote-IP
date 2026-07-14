@@ -1,13 +1,13 @@
 # Telegram get remote IP
 
-## New 2023 version written in python, against bash.
+## New 2026 version written in python, against bash.
 
 This script is intended to be used to determine the IP address of the interlocutor in the telegram messenger. 
 You must have tshark installed to use it.
 
 Working on **MacOS**, **Linux** and **Windows**.
 
-Thx [@WonderMr](https://github.com/WonderMr) for adding Windows support and other improovements.
+Thx [@r00thex](https://github.com/r00thex) for adding Windows support and other improovements.
 
 TechCrunch wrote about the utility — [Telegram is still leaking user IP addresses to contacts](https://techcrunch.com/2023/10/19/telegram-is-still-leaking-user-ip-addresses-to-contacts/)
 
