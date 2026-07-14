@@ -1,4 +1,4 @@
-# Telegram get remote IP
+# Telegram remote IP hijacking 
 
 ## New 2026 version written in python, against bash.
 
@@ -26,7 +26,7 @@ TechCrunch wrote about the utility — [Telegram is still leaking user IP addres
 ```sh
 $ sudo apt update
 $ sudo apt install -y python3-pip python3-venv tshark
-$ git clone 
+$ git clone https://github.com/r00thex/Telegram-remote-IP.git
 
 $ cd telegram-get-remote-ip
 $ python3 -m venv venv
@@ -56,4 +56,3 @@ And run it with:
 ```sh
 $ docker run -it --cap-add=NET_RAW --cap-add=NET_ADMIN telegram-get-remote-ip
 ```
-#
